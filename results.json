@@ -1,0 +1,893 @@
+[
+  {
+    "upc": "713132395233",
+    "brand": "Burberry",
+    "item_name": "Burberry BE2108 Black",
+    "our_price": 304.0,
+    "our_discount_price": 274.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Burberry 2108 Eyeglasses",
+      "competitor_price": 151.0
+    },
+    "pricing": {
+      "suggested_price": 143.45,
+      "change_amount": -130.55,
+      "change_percent": -47.65,
+      "reasoning": "Competitor at $151.00 is 44.9% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "8053672283303",
+    "brand": "Armani Exchange",
+    "item_name": "Armani Exchange AX3016 Black",
+    "our_price": 163.0,
+    "our_discount_price": 130.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Armani Exchange 3016 Eyeglasses",
+      "competitor_price": 70.52
+    },
+    "pricing": {
+      "suggested_price": 66.99,
+      "change_amount": -63.01,
+      "change_percent": -48.47,
+      "reasoning": "Competitor at $70.52 is 45.8% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "713132321966",
+    "brand": "Burberry",
+    "item_name": "Burberry BE2073 Tortoise",
+    "our_price": 311.0,
+    "our_discount_price": 280.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Burberry 2073 Eyeglasses",
+      "competitor_price": 141.88
+    },
+    "pricing": {
+      "suggested_price": 134.79,
+      "change_amount": -145.21,
+      "change_percent": -51.86,
+      "reasoning": "Competitor at $141.88 is 49.3% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "725125379632",
+    "brand": "Michael Kors",
+    "item_name": "Michael Kors MK3056 Naxos Rose Gold",
+    "our_price": 204.0,
+    "our_discount_price": 163.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Michael Kors Naxos 3056 Eyeglasses",
+      "competitor_price": 90.96
+    },
+    "pricing": {
+      "suggested_price": 86.41,
+      "change_amount": -76.59,
+      "change_percent": -46.99,
+      "reasoning": "Competitor at $90.96 is 44.2% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "725125961295",
+    "brand": "Michael Kors",
+    "item_name": "Michael Kors MK4030 Vivianna II Tortoise, Beige",
+    "our_price": 256.0,
+    "our_discount_price": 230.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Michael Kors Vivianna Ii 4030 Eyeglasses",
+      "competitor_price": 91.74
+    },
+    "pricing": {
+      "suggested_price": 87.15,
+      "change_amount": -142.85,
+      "change_percent": -62.11,
+      "reasoning": "Competitor at $91.74 is 60.1% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "725125932226",
+    "brand": "Coach",
+    "item_name": "Coach HC6065 Tortoise, Purple, Multicolor",
+    "our_price": 304.0,
+    "our_discount_price": 274.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Coach 6065 Eyeglasses",
+      "competitor_price": 145.29
+    },
+    "pricing": {
+      "suggested_price": 138.03,
+      "change_amount": -135.97,
+      "change_percent": -49.62,
+      "reasoning": "Competitor at $145.29 is 47.0% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "8056597886826",
+    "brand": "Burberry",
+    "item_name": "Burberry BE2357 Esme Black",
+    "our_price": 341.0,
+    "our_discount_price": 307.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Burberry Esme 2357 Eyeglasses",
+      "competitor_price": 166.11
+    },
+    "pricing": {
+      "suggested_price": 157.8,
+      "change_amount": -149.2,
+      "change_percent": -48.6,
+      "reasoning": "Competitor at $166.11 is 45.9% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "725125013215",
+    "brand": "Coach",
+    "item_name": "Coach HC8264 Shiny Black",
+    "our_price": 367.0,
+    "our_discount_price": 330.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Coach L1083 8264 Sunglasses",
+      "competitor_price": 152.36
+    },
+    "pricing": {
+      "suggested_price": 144.74,
+      "change_amount": -185.26,
+      "change_percent": -56.14,
+      "reasoning": "Competitor at $152.36 is 53.8% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "7895653258068",
+    "brand": "Armani Exchange",
+    "item_name": "Armani Exchange AX1059 Black",
+    "our_price": 46.0,
+    "our_discount_price": 46.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Armani Exchange 1059 Eyeglasses",
+      "competitor_price": 74.72
+    },
+    "pricing": {
+      "suggested_price": 46.0,
+      "change_amount": 0.0,
+      "change_percent": 0.0,
+      "reasoning": "Our price $46.00 is already at or below competitor's $74.72. No change needed."
+    }
+  },
+  {
+    "upc": "725125387736",
+    "brand": "Michael Kors",
+    "item_name": "Michael Kors MK4095U Dolonne Shiny Black",
+    "our_price": 237.0,
+    "our_discount_price": 213.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Michael Kors Dolonne 4095U Eyeglasses",
+      "competitor_price": 91.74
+    },
+    "pricing": {
+      "suggested_price": 87.15,
+      "change_amount": -125.85,
+      "change_percent": -59.08,
+      "reasoning": "Competitor at $91.74 is 56.9% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "725125392341",
+    "brand": "Coach",
+    "item_name": "Coach HC6207U Clear, Brown",
+    "our_price": 263.0,
+    "our_discount_price": 210.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Coach 6207U Eyeglasses",
+      "competitor_price": 132.2
+    },
+    "pricing": {
+      "suggested_price": 125.59,
+      "change_amount": -84.41,
+      "change_percent": -40.2,
+      "reasoning": "Competitor at $132.20 is 37.0% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "725125487665",
+    "brand": "Coach",
+    "item_name": "Coach HC6242U Clear",
+    "our_price": 248.0,
+    "our_discount_price": 223.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Coach 6242U Eyeglasses",
+      "competitor_price": 126.37
+    },
+    "pricing": {
+      "suggested_price": 120.05,
+      "change_amount": -102.95,
+      "change_percent": -46.17,
+      "reasoning": "Competitor at $126.37 is 43.3% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "725125932172",
+    "brand": "Coach",
+    "item_name": "Coach HC6065 Tortoise",
+    "our_price": 304.0,
+    "our_discount_price": 243.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Coach 6065 Eyeglasses",
+      "competitor_price": 138.88
+    },
+    "pricing": {
+      "suggested_price": 131.94,
+      "change_amount": -111.06,
+      "change_percent": -45.7,
+      "reasoning": "Competitor at $138.88 is 42.8% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "8053672283365",
+    "brand": "Armani Exchange",
+    "item_name": "Armani Exchange AX1014 Black",
+    "our_price": 196.0,
+    "our_discount_price": 157.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Armani Exchange 1014 Eyeglasses",
+      "competitor_price": 73.22
+    },
+    "pricing": {
+      "suggested_price": 69.56,
+      "change_amount": -87.44,
+      "change_percent": -55.69,
+      "reasoning": "Competitor at $73.22 is 53.4% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "725125371421",
+    "brand": "Coach",
+    "item_name": "Coach HC6176 Tortoise, Pink, Rose Gold",
+    "our_price": 267.0,
+    "our_discount_price": 214.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Coach 6176 Eyeglasses",
+      "competitor_price": 114.38
+    },
+    "pricing": {
+      "suggested_price": 108.66,
+      "change_amount": -105.34,
+      "change_percent": -49.22,
+      "reasoning": "Competitor at $114.38 is 46.6% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "8056597417860",
+    "brand": "Burberry",
+    "item_name": "Burberry BE2340 Bolton Black",
+    "our_price": 371.0,
+    "our_discount_price": 297.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Burberry Bolton 2340 Eyeglasses",
+      "competitor_price": 168.66
+    },
+    "pricing": {
+      "suggested_price": 160.23,
+      "change_amount": -136.77,
+      "change_percent": -46.05,
+      "reasoning": "Competitor at $168.66 is 43.2% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "8056597831635",
+    "brand": "Versace",
+    "item_name": "Versace VE3340U Clear",
+    "our_price": 366.0,
+    "our_discount_price": 329.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Versace 3340U Eyeglasses",
+      "competitor_price": 197.15
+    },
+    "pricing": {
+      "suggested_price": 187.29,
+      "change_amount": -141.71,
+      "change_percent": -43.07,
+      "reasoning": "Competitor at $197.15 is 40.1% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "725125389563",
+    "brand": "Tory Burch",
+    "item_name": "Tory Burch TY2129U Brown, Tortoise",
+    "our_price": 256.0,
+    "our_discount_price": 230.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Tory Burch 2129U Eyeglasses",
+      "competitor_price": 113.29
+    },
+    "pricing": {
+      "suggested_price": 107.63,
+      "change_amount": -122.37,
+      "change_percent": -53.2,
+      "reasoning": "Competitor at $113.29 is 50.7% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "716736433011",
+    "brand": "Kate Spade",
+    "item_name": "Kate Spade Luella Pink, Clear",
+    "our_price": 124.0,
+    "our_discount_price": 124.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Kate Spade LUELLA Eyeglasses",
+      "competitor_price": 61.7
+    },
+    "pricing": {
+      "suggested_price": 58.62,
+      "change_amount": -65.38,
+      "change_percent": -52.73,
+      "reasoning": "Competitor at $61.70 is 50.2% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "725125932219",
+    "brand": "Coach",
+    "item_name": "Coach HC6065 Eggplant",
+    "our_price": 304.0,
+    "our_discount_price": 243.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Coach 6065 Eyeglasses",
+      "competitor_price": 145.29
+    },
+    "pricing": {
+      "suggested_price": 138.03,
+      "change_amount": -104.97,
+      "change_percent": -43.2,
+      "reasoning": "Competitor at $145.29 is 40.2% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "725125002387",
+    "brand": "Coach",
+    "item_name": "Coach HC6125 Multicolor, Tortoise, Gold",
+    "our_price": 304.0,
+    "our_discount_price": 213.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Coach 6125 Eyeglasses",
+      "competitor_price": 128.25
+    },
+    "pricing": {
+      "suggested_price": 121.84,
+      "change_amount": -91.16,
+      "change_percent": -42.8,
+      "reasoning": "Competitor at $128.25 is 39.8% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "725125925747",
+    "brand": "Coach",
+    "item_name": "Coach HC6054 Elise Tortoise",
+    "our_price": 309.0,
+    "our_discount_price": 247.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Coach Elise 6054 Eyeglasses",
+      "competitor_price": 140.96
+    },
+    "pricing": {
+      "suggested_price": 133.91,
+      "change_amount": -113.09,
+      "change_percent": -45.79,
+      "reasoning": "Competitor at $140.96 is 42.9% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "725125534352",
+    "brand": "Coach",
+    "item_name": "Coach HC6254BD Brown",
+    "our_price": 244.0,
+    "our_discount_price": 220.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Coach 6254BD Eyeglasses",
+      "competitor_price": 110.57
+    },
+    "pricing": {
+      "suggested_price": 105.04,
+      "change_amount": -114.96,
+      "change_percent": -52.25,
+      "reasoning": "Competitor at $110.57 is 49.7% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "8053672885002",
+    "brand": "Armani Exchange",
+    "item_name": "Armani Exchange AX3053 Clear Brown",
+    "our_price": 174.0,
+    "our_discount_price": 157.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Armani Exchange 3053 Eyeglasses",
+      "competitor_price": 70.52
+    },
+    "pricing": {
+      "suggested_price": 66.99,
+      "change_amount": -90.01,
+      "change_percent": -57.33,
+      "reasoning": "Competitor at $70.52 is 55.1% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "8056597535892",
+    "brand": "Versace",
+    "item_name": "Versace VE3304 Pink, Clear",
+    "our_price": 266.0,
+    "our_discount_price": 239.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Versace 3304 Eyeglasses",
+      "competitor_price": 162.97
+    },
+    "pricing": {
+      "suggested_price": 154.82,
+      "change_amount": -84.18,
+      "change_percent": -35.22,
+      "reasoning": "Competitor at $162.97 is 31.8% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "8056262081655",
+    "brand": "Burberry",
+    "item_name": "Burberry BE2403 Tortoise",
+    "our_price": 404.0,
+    "our_discount_price": 364.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Burberry 2403 Eyeglasses",
+      "competitor_price": 194.99
+    },
+    "pricing": {
+      "suggested_price": 185.24,
+      "change_amount": -178.76,
+      "change_percent": -49.11,
+      "reasoning": "Competitor at $194.99 is 46.4% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "8056597489201",
+    "brand": "Burberry",
+    "item_name": "Burberry BE2347 Evelyn Black",
+    "our_price": 440.0,
+    "our_discount_price": 396.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Burberry Evelyn 2347 Eyeglasses",
+      "competitor_price": 186.32
+    },
+    "pricing": {
+      "suggested_price": 177.0,
+      "change_amount": -219.0,
+      "change_percent": -55.3,
+      "reasoning": "Competitor at $186.32 is 52.9% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "8056262555071",
+    "brand": "Burberry",
+    "item_name": "Burberry BE2440 Multicolor, Brown",
+    "our_price": 354.0,
+    "our_discount_price": 319.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Burberry 2440 Eyeglasses",
+      "competitor_price": 191.98
+    },
+    "pricing": {
+      "suggested_price": 182.38,
+      "change_amount": -136.62,
+      "change_percent": -42.83,
+      "reasoning": "Competitor at $191.98 is 39.8% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "725125948623",
+    "brand": "Coach",
+    "item_name": "Coach HC6078 Tortoise, Blue",
+    "our_price": 348.0,
+    "our_discount_price": 313.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Coach 6078 Eyeglasses",
+      "competitor_price": 132.2
+    },
+    "pricing": {
+      "suggested_price": 125.59,
+      "change_amount": -187.41,
+      "change_percent": -59.88,
+      "reasoning": "Competitor at $132.20 is 57.8% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "8053672416893",
+    "brand": "Burberry",
+    "item_name": "Burberry BE1282 Black",
+    "our_price": 359.0,
+    "our_discount_price": 323.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Burberry 1282 Eyeglasses",
+      "competitor_price": 169.4
+    },
+    "pricing": {
+      "suggested_price": 160.93,
+      "change_amount": -162.07,
+      "change_percent": -50.18,
+      "reasoning": "Competitor at $169.40 is 47.6% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "716736744599",
+    "brand": "Kate Spade",
+    "item_name": "Kate Spade Avaline2/S Gold",
+    "our_price": 106.0,
+    "our_discount_price": 95.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Kate Spade AVALINE2_S Sunglasses",
+      "competitor_price": 57.0
+    },
+    "pricing": {
+      "suggested_price": 54.15,
+      "change_amount": -40.85,
+      "change_percent": -43.0,
+      "reasoning": "Competitor at $57.00 is 40.0% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "8056597640596",
+    "brand": "Burberry",
+    "item_name": "Burberry BE2334 Elm Clear",
+    "our_price": 412.0,
+    "our_discount_price": 330.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Burberry Elm 2334 Eyeglasses",
+      "competitor_price": 161.22
+    },
+    "pricing": {
+      "suggested_price": 153.16,
+      "change_amount": -176.84,
+      "change_percent": -53.59,
+      "reasoning": "Competitor at $161.22 is 51.1% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "827886729357",
+    "brand": "Kate Spade",
+    "item_name": "Kate Spade Renne Beige, Clear",
+    "our_price": 104.0,
+    "our_discount_price": 104.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Kate Spade RENNE Eyeglasses",
+      "competitor_price": 95.22
+    },
+    "pricing": {
+      "suggested_price": 92.36,
+      "change_amount": -11.64,
+      "change_percent": -11.19,
+      "reasoning": "Competitor at $95.22 is 8.4% cheaper (moderate gap). Undercutting by 3%."
+    }
+  },
+  {
+    "upc": "8056597920322",
+    "brand": "Burberry",
+    "item_name": "Burberry BE2390 Clear",
+    "our_price": 342.0,
+    "our_discount_price": 342.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Burberry 2390 Eyeglasses",
+      "competitor_price": 161.22
+    },
+    "pricing": {
+      "suggested_price": 153.16,
+      "change_amount": -188.84,
+      "change_percent": -55.22,
+      "reasoning": "Competitor at $161.22 is 52.9% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "716736065427",
+    "brand": "Kate Spade",
+    "item_name": "Kate Spade Emilyn Tortoise, Pink",
+    "our_price": 311.0,
+    "our_discount_price": 156.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Kate Spade Emilyn Eyeglasses",
+      "competitor_price": 103.92
+    },
+    "pricing": {
+      "suggested_price": 98.72,
+      "change_amount": -57.28,
+      "change_percent": -36.72,
+      "reasoning": "Competitor at $103.92 is 33.4% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "725125371438",
+    "brand": "Coach",
+    "item_name": "Coach HC6176 Tortoise, Pink, Rose Gold",
+    "our_price": 267.0,
+    "our_discount_price": 214.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Coach 6176 Eyeglasses",
+      "competitor_price": 114.38
+    },
+    "pricing": {
+      "suggested_price": 108.66,
+      "change_amount": -105.34,
+      "change_percent": -49.22,
+      "reasoning": "Competitor at $114.38 is 46.6% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "725125005227",
+    "brand": "Coach",
+    "item_name": "Coach HC6129 Black, Tortoise",
+    "our_price": 274.0,
+    "our_discount_price": 219.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Coach 6129 Eyeglasses",
+      "competitor_price": 124.78
+    },
+    "pricing": {
+      "suggested_price": 118.54,
+      "change_amount": -100.46,
+      "change_percent": -45.87,
+      "reasoning": "Competitor at $124.78 is 43.0% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "8055341273585",
+    "brand": "Adidas",
+    "item_name": "Adidas AOM001O/N Blue/Black",
+    "our_price": 115.0,
+    "our_discount_price": 81.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Adidas AOM001O_N Eyeglasses",
+      "competitor_price": 49.0
+    },
+    "pricing": {
+      "suggested_price": 46.55,
+      "change_amount": -34.45,
+      "change_percent": -42.53,
+      "reasoning": "Competitor at $49.00 is 39.5% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "8056597727174",
+    "brand": "Burberry",
+    "item_name": "Burberry BE2363 Sylvie Shiny Black",
+    "our_price": 440.0,
+    "our_discount_price": 396.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Burberry Sylvie 2363 Eyeglasses",
+      "competitor_price": 194.99
+    },
+    "pricing": {
+      "suggested_price": 185.24,
+      "change_amount": -210.76,
+      "change_percent": -53.22,
+      "reasoning": "Competitor at $194.99 is 50.8% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "8056262043691",
+    "brand": "Versace",
+    "item_name": "Versace VE1274 Gold",
+    "our_price": 478.0,
+    "our_discount_price": 478.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Versace 1274 Eyeglasses",
+      "competitor_price": 180.06
+    },
+    "pricing": {
+      "suggested_price": 171.06,
+      "change_amount": -306.94,
+      "change_percent": -64.21,
+      "reasoning": "Competitor at $180.06 is 62.3% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "725125392327",
+    "brand": "Coach",
+    "item_name": "Coach HC6207U Universal Fit Black",
+    "our_price": 263.0,
+    "our_discount_price": 210.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Coach 6207U Eyeglasses",
+      "competitor_price": 126.37
+    },
+    "pricing": {
+      "suggested_price": 120.05,
+      "change_amount": -89.95,
+      "change_percent": -42.83,
+      "reasoning": "Competitor at $126.37 is 39.8% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "725125932196",
+    "brand": "Coach",
+    "item_name": "Coach HC6065 Tortoise, Brown",
+    "our_price": 304.0,
+    "our_discount_price": 243.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Coach 6065 Eyeglasses",
+      "competitor_price": 145.29
+    },
+    "pricing": {
+      "suggested_price": 138.03,
+      "change_amount": -104.97,
+      "change_percent": -43.2,
+      "reasoning": "Competitor at $145.29 is 40.2% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "8056597832502",
+    "brand": "Burberry",
+    "item_name": "Burberry BE2376 Elizabeth Black",
+    "our_price": 404.0,
+    "our_discount_price": 404.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Burberry Elizabeth 2376 Eyeglasses",
+      "competitor_price": 186.32
+    },
+    "pricing": {
+      "suggested_price": 177.0,
+      "change_amount": -227.0,
+      "change_percent": -56.19,
+      "reasoning": "Competitor at $186.32 is 53.9% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "8056262664773",
+    "brand": "Versace",
+    "item_name": "Versace VE3328 Clear, Gray",
+    "our_price": 326.0,
+    "our_discount_price": 326.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Versace 3328 Eyeglasses",
+      "competitor_price": 176.55
+    },
+    "pricing": {
+      "suggested_price": 167.72,
+      "change_amount": -158.28,
+      "change_percent": -48.55,
+      "reasoning": "Competitor at $176.55 is 45.8% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "8056262663813",
+    "brand": "Versace",
+    "item_name": "Versace VE3347 Gray, Clear",
+    "our_price": 404.0,
+    "our_discount_price": 364.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Versace 3347 Eyeglasses",
+      "competitor_price": 232.1
+    },
+    "pricing": {
+      "suggested_price": 220.49,
+      "change_amount": -143.51,
+      "change_percent": -39.43,
+      "reasoning": "Competitor at $232.10 is 36.2% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "8056262600085",
+    "brand": "Miu Miu",
+    "item_name": "Miu Miu MU01YV Bronze, Tortoise",
+    "our_price": 459.0,
+    "our_discount_price": 459.0,
+    "match": null,
+    "pricing": null
+  },
+  {
+    "upc": "7895653258105",
+    "brand": "Armani Exchange",
+    "item_name": "Armani Exchange AX1059 Blue",
+    "our_price": 46.0,
+    "our_discount_price": 46.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Armani Exchange 1059 Eyeglasses",
+      "competitor_price": 74.72
+    },
+    "pricing": {
+      "suggested_price": 46.0,
+      "change_amount": 0.0,
+      "change_percent": 0.0,
+      "reasoning": "Our price $46.00 is already at or below competitor's $74.72. No change needed."
+    }
+  },
+  {
+    "upc": "827886729371",
+    "brand": "Kate Spade",
+    "item_name": "Kate Spade Renne Shiny Black",
+    "our_price": 104.0,
+    "our_discount_price": 94.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Kate Spade RENNE Eyeglasses",
+      "competitor_price": 99.62
+    },
+    "pricing": {
+      "suggested_price": 94.0,
+      "change_amount": 0.0,
+      "change_percent": 0.0,
+      "reasoning": "Our price $94.00 is already at or below competitor's $99.62. No change needed."
+    }
+  },
+  {
+    "upc": "8056597213233",
+    "brand": "Armani Exchange",
+    "item_name": "Armani Exchange AX1042 Matte Black, Gunmetal",
+    "our_price": 181.0,
+    "our_discount_price": 163.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Armani Exchange 1042 Eyeglasses",
+      "competitor_price": 72.59
+    },
+    "pricing": {
+      "suggested_price": 68.96,
+      "change_amount": -94.04,
+      "change_percent": -57.69,
+      "reasoning": "Competitor at $72.59 is 55.5% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  },
+  {
+    "upc": "725125403313",
+    "brand": "Michael Kors",
+    "item_name": "Michael Kors MK4110U Avila Clear",
+    "our_price": 184.0,
+    "our_discount_price": 166.0,
+    "match": {
+      "match_type": "upc",
+      "competitor_title": "Michael Kors Avila 4110U Eyeglasses",
+      "competitor_price": 87.69
+    },
+    "pricing": {
+      "suggested_price": 83.31,
+      "change_amount": -82.69,
+      "change_percent": -49.81,
+      "reasoning": "Competitor at $87.69 is 47.2% cheaper (large gap). Aggressively undercutting by 5%."
+    }
+  }
+]

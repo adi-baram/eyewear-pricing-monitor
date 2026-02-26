@@ -1,0 +1,21 @@
+name: Docker Demo
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:  # allows manual trigger from GitHub UI
+
+jobs:
+  docker-demo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build Docker image
+        run: docker build -t eyewear-monitor .
+
+      - name: Run unit tests in container
+        run: docker run eyewear-monitor python3 -m unittest test_pricing -v
+
+      - name: Run pipeline (5 products demo)
+        run: docker run eyewear-monitor python3 main.py --limit 5

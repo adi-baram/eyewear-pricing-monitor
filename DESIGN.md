@@ -53,13 +53,19 @@
 
 ## Pricing Strategy
 
-**Smart Competitive Pricing:**
+**Tiered Competitive Pricing** — the response scales with the size of the price gap:
 
-- If competitor price < our discounted price → undercut competitor by 3%
-- If we're already cheaper → keep our price (no change)
-- Floor: never go below 20% of our original price (margin protection)
+| Gap (our price vs competitor) | Action | Rationale |
+|-------------------------------|--------|-----------|
+| We're already cheaper | Keep our price | No need to reduce margin |
+| Gap < 5% | Match competitor price | Small gap — staying close is enough |
+| Gap 5-20% | Undercut by 3% | Moderate gap — win on price without deep cuts |
+| Gap > 20% | Undercut by 5% | Large gap — aggressive repositioning needed |
+| Any | Floor: 20% of original price | Margin protection — never sell at a loss |
 
-This balances competitiveness with profitability. The undercut percentage and floor are configurable in `config.py`.
+**Why tiered?** A flat undercut strategy (e.g. always -3%) doesn't account for how far off we are. If the competitor is only $2 cheaper, matching is sufficient. If they're 50% cheaper, we need a stronger response. The tiered approach adapts to the competitive reality of each product.
+
+All thresholds are configurable in `config.py`.
 
 ## Product Matching
 

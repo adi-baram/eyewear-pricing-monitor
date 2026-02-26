@@ -143,9 +143,10 @@ class TestProductMatching(unittest.TestCase):
 
 
 class TestPricingAlgorithm(unittest.TestCase):
-    def test_undercut_competitor(self):
+    def test_large_gap_aggressive_undercut(self):
+        # Gap ~27% -> aggressive 5% undercut
         r = suggest_price(our_price=304, our_discount_price=274, competitor_price=200)
-        self.assertEqual(r["suggested_price"], 194.0)  # 200 * 0.97
+        self.assertEqual(r["suggested_price"], 190.0)  # 200 * 0.95
         self.assertLess(r["change_amount"], 0)
 
     def test_already_cheaper(self):
@@ -162,10 +163,15 @@ class TestPricingAlgorithm(unittest.TestCase):
         self.assertEqual(r["suggested_price"], 180.0)
         self.assertEqual(r["change_amount"], 0)
 
-    def test_competitor_slightly_cheaper(self):
-        r = suggest_price(our_price=200, our_discount_price=160, competitor_price=155)
-        expected = round(155 * 0.97, 2)  # 150.35
-        self.assertEqual(r["suggested_price"], expected)
+    def test_small_gap_match_competitor(self):
+        # Gap 3% -> just match
+        r = suggest_price(our_price=200, our_discount_price=100, competitor_price=97)
+        self.assertEqual(r["suggested_price"], 97.0)
+
+    def test_medium_gap_moderate_undercut(self):
+        # Gap 10% -> moderate 3% undercut
+        r = suggest_price(our_price=200, our_discount_price=100, competitor_price=90)
+        self.assertEqual(r["suggested_price"], 87.3)  # 90 * 0.97
 
     def test_returns_reasoning(self):
         r = suggest_price(our_price=100, our_discount_price=90, competitor_price=80)

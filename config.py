@@ -16,8 +16,11 @@ RATE_LIMIT_DELAY = 1.5  # seconds between requests
 MAX_RETRIES = 3
 RETRY_BACKOFF_BASE = 2  # exponential backoff: 2^attempt seconds
 
-# Pricing strategy
-UNDERCUT_PERCENT = 3  # undercut competitor by this percentage
+# Pricing strategy — tiered based on gap size
+SMALL_GAP_THRESHOLD = 5    # gap < 5%: match competitor price
+LARGE_GAP_THRESHOLD = 20   # gap > 20%: aggressive undercut
+UNDERCUT_MODERATE = 3      # undercut % for medium gaps (5-20%)
+UNDERCUT_AGGRESSIVE = 5    # undercut % for large gaps (>20%)
 MIN_PRICE_FLOOR_PERCENT = 20  # never go below this % of our original price
 
 # Output files
